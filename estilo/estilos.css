@@ -1,0 +1,11 @@
+.container{
+    width: 100vw;
+}
+.cuerpo{
+    width: 100vw;
+    height: 91vh;
+    background-color: blue;
+}
+.espacio{
+    width: 30vw;
+}
